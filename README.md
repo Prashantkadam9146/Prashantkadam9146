@@ -15,7 +15,7 @@ Aspiring Data Scientist with a strong foundation in Machine Learning, NLP, and B
 🔹 **Rice Leaf Disease Prediction** - Machine Learning model to classify rice leaf diseases.  
 🔹 **Insurance Claim Prediction** - Predicting claim approvals using ML techniques.  
 🔹 **NBA Shot Selection** - Analyzing and predicting NBA player shot selections.  
-🔹 **Bike Rental Dataset** - Forecasting bike rental demand using time series analysis.  
+🔹 **Bike Rental Dataset** - Predicting bike rental demand using ML Model.  
 
 ## 📫 Connect With Me
 - **LinkedIn:** www.linkedin.com/in/prashant-kadam-2759122ab  

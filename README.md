@@ -5,10 +5,10 @@ Aspiring Data Scientist with a strong foundation in Machine Learning, NLP, and B
 
 ## 🔥 Skills & Technologies
 - **Programming Languages:** Python, SQL
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-- **NLP:** NLTK, SpaCy, Transformers
+- **Libraries:** Numpy, Pandas, Seaborn, Matplotlib
+- **Machine Learning:** Scikit-learn, TensorFlow
 - **Big Data:** Hadoop, Spark
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL
 - **Version Control:** Git, GitHub
 
 ## 📂 Projects

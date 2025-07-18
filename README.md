@@ -1,21 +1,26 @@
 # Hi there, I'm Prashant! 👋
 
 ## 🚀 About Me
-Aspiring Data Scientist with a strong foundation in Machine Learning, NLP, and Big Data. Currently pursuing my **MCA at GH Raisoni College of Engineering, Pune** and interning at **Rebuxe AI**. Passionate about solving real-world problems using AI and Data Science.
+Aspiring Data Scientist with a strong foundation in Machine Learning, NLP, and Python. Recently Completed my **MCA from GH Raisoni College of Engineering and Management, Pune** and done internship at **Rebuxe AI**. Passionate about solving real-world problems using AI and Data Science.
 
 ## 🔥 Skills & Technologies
 - **Programming Languages:** Python, SQL
 - **Libraries:** Numpy, Pandas, Seaborn, Matplotlib
 - **Machine Learning:** Scikit-learn, TensorFlow
-- **Big Data:** Hadoop, Spark
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
+- **Deep Learning**
+- **NLP**
 
 ## 📂 Projects
-🔹 **Rice Leaf Disease Prediction** - Machine Learning model to classify rice leaf diseases.  
-🔹 **Insurance Claim Prediction** - Predicting claim approvals using ML techniques.  
-🔹 **NBA Shot Selection** - Analyzing and predicting NBA player shot selections.  
-🔹 **Bike Rental Dataset** - Predicting bike rental demand using ML Model.  
+
+- **Telecom Customer Churn Prediction** – Predicting customer churn using ML classification models.  
+- **Bike Rental Dataset** – Predicting bike rental demand using machine learning techniques.  
+- **Insurance Claim Prediction** – Estimating claim approvals with ML-based approaches.  
+- **Rice Leaf Disease Prediction** – Machine learning model to classify rice leaf diseases.  
+- **NBA Shot Selection** – Analyzing and predicting NBA player shot selections.
+
+  
 
 ## 📫 Connect With Me
 - **LinkedIn:** www.linkedin.com/in/prashant-kadam-2759122ab  
